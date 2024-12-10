@@ -8,7 +8,7 @@ Overview
 Team Members
 --
 
-Hi everyone! We are from CH2-PS193. We consist of 7 people and these are my team members:
+Hi everyone! We are from C242-PS415. We consist of 7 people and these are my team members:
 
 | Bangkit ID | Name     | Learning Path | University  |LinkedIn |
 | ---        | ---      | ---           | ---         | ---       |
