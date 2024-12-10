@@ -2,7 +2,7 @@ Capstone Bangkit Academy WijiWaste
 ==
 Overview
 --
-<p align="justify">"WijiWaste is a Waste Bank mobile application that incentivizes waste separation by enabling users to sell sorted waste for additional cash rewards. The app offers pick-up points or scheduled pick-up services, encouraging people to responsibly dispose of waste. An image classification feature will help users identify and sort their waste, and a dynamic pricing list will inform users of the value of different waste types. Our primary goal is to reduce community waste volume, ease landfill pressures, and support recycling partners by providing pre-sorted waste.
+<p align="justify">WijiWaste is a Waste Bank mobile application that incentivizes waste separation by enabling users to sell sorted waste for additional cash rewards. The app offers pick-up points or scheduled pick-up services, encouraging people to responsibly dispose of waste. An image classification feature will help users identify and sort their waste, and a dynamic pricing list will inform users of the value of different waste types. Our primary goal is to reduce community waste volume, ease landfill pressures, and support recycling partners by providing pre-sorted waste.
 </p>
 
 Team Members
